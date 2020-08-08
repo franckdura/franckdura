@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Franck 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Currently doing a double degree ESIEE Paris X Politecnico di Milano in **datascience** and **artificial intelligence**
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
