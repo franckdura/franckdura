@@ -16,7 +16,6 @@
 
 
 ## Languages and tools
-<br />
 
 ### Languages :
 
@@ -28,7 +27,7 @@
 [<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br />
 
-### Data Enginnering tools :
+### Data Engineering tools :
 
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />][webdevplaylist]
 [<img align="left" alt="ElasticSearch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/elasticsearch.svg" />][webdevplaylist]
