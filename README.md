@@ -1,6 +1,6 @@
 ### Hi there, I'm Franck 👋
 
-## Currently doing a double degree ESIEE Paris X Politecnico di Milano in **datascience** and **artificial intelligence**
+## Currently doing a double degree ESIEE Paris x Politecnico di Milano in **datascience** and **artificial intelligence**
 - 🔭 I’m currently working on Physic Informed Deep Learning (PINN)
 - 🌱 Living in Milan / Paris / Nearby Geneva
 - 👯 I’m looking for a 6 months internship from September 2021 to February 2022
