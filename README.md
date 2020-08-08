@@ -30,21 +30,27 @@
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][webdevplaylist]
 [<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/flask.svg" />][webdevplaylist]
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />][cssplaylist]
+<br />
 
 
 ### Data Vizualisation tools :
 
 [<img align="left" alt="Dash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dash.svg" />][webdevplaylist]
+<br />
+
 
 ### Others dev tools :
 
 [<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/atom.svg" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+<br />
 
-### Deep learning :
+
+### Machine learning & Deep learning :
 
 [<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tensorflow.svg" />][webdevplaylist]
+[<img align="left" alt="Sklearn" width="26px" src="https://www.google.fr/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FScikit-learn&psig=AOvVaw1-bGlJ-RNGiP4nLSg48Z3x&ust=1596969465024000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiyjoG1i-sCFQAAAAAdAAAAABAD" />][webdevplaylist]
 
 
 <br />
