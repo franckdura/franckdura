@@ -50,7 +50,7 @@
 ### Machine learning & Deep learning :
 
 [<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tensorflow.svg" />][webdevplaylist]
-[<img align="left" alt="Sklearn" width="26px" src="https://www.google.fr/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FScikit-learn&psig=AOvVaw1-bGlJ-RNGiP4nLSg48Z3x&ust=1596969465024000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiyjoG1i-sCFQAAAAAdAAAAABAD" />][webdevplaylist]
+[<img align="left" alt="Sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][webdevplaylist]
 
 
 <br />
