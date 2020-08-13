@@ -63,7 +63,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=franckdeturchedura&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dark" />
+<img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=franckdeturchedura&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 
 [Facebook]: https://www.facebook.com/franck.deturchedura/
 [instagram]: https://www.instagram.com/franckdet/
