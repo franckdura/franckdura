@@ -1,6 +1,4 @@
-### Hi there, I'm Franck 👋
-
-## Currently doing a double degree ESIEE Paris x Politecnico di Milano in **datascience** and **artificial intelligence**
+## Double degree student ESIEE Paris x Politecnico di Milano
 
 
 ### Connect with me:
@@ -61,9 +59,4 @@
 
 <img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=franckdeturchedura&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 
-[Facebook]: https://www.facebook.com/franck.deturchedura/
-[instagram]: https://www.instagram.com/franckdet/
 [linkedin]: https://www.linkedin.com/in/franck-deturche-dura/
-[webdevplaylist]: https://www.linkedin.com/in/franck-deturche-dura/
-[jsplaylist]: https://www.linkedin.com/in/franck-deturche-dura/
-[cssplaylist]: https://www.linkedin.com/in/franck-deturche-dura/
